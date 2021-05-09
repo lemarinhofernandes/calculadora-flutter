@@ -1,4 +1,4 @@
 # calculadora-flutter
 
-Calculadora feita no framework Flutter.
+Calculadora feita em Flutter.
 Referência https://www.youtube.com/watch?v=jyjdXFsQoYw
